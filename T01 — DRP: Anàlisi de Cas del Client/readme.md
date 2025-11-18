@@ -82,3 +82,6 @@ Com es garanteix que les dades de Comptabilitat/Clients compleixen amb el requis
 - Moodle 0226 Seguretat Informàtica. RA2.AA3 Còpies
 - INCIBE. Copias de seguridad. Una guía de aproximación para el empresario
 - Xataka. Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos. [YouTube]. Setembre 2017. Disponible a: https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8
+
+## Index:
+
