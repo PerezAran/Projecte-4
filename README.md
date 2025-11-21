@@ -61,7 +61,7 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 - [`T10 — Servidor d'Impressió CUPS`](./T10%20—%20Servidor%20d'Impressió%20CUPS)
 - [`T11 — Introducció a Figma`](./T11%20—%20Introducció%20a%20Figma)
 - [`T12 — Fonaments de Landing Page i Procés de Checkout`](./T12%20—%20Fonaments%20de%20Landing%20Page%20i%20Procés%20de%20Checkout)
-- [`T13 — E-commerce Maqueta amb Figma (parelles)`](./T13%20—%20E-commerce%20Maqueta%20amb%20Figma%20(parelles))
+- [`T13 — E-commerce Maqueta amb Figma (parelles)`](./T13%20—%20E-commerce%3A%20Maqueta%20amb%20Figma%20(parelles))
 - [`T14 — Activitat escrita: Consum responsable i sostenibilitat`](./T14%20—%20Activitat%20escrita:%20Consum%20responsable%20i%20sostenibilitat)
 - [`T15 — Circularitat en la Família Professional`](./T15%20—%20Circularitat%20en%20la%20Família%20Professional)
 ### TT
