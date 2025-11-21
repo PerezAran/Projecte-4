@@ -40,4 +40,44 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 - Implementació de serveis d’accés remot  
 - Desplegament de solucions de disseny i comerç electrònic  
 
+# Índice del Proyecto
 
+## 📁 Estructura de Carpetas
+
+### Proyectos Principales
+- [`P01 – Kanban del Projecte`](./P01%20–%20Kanban%20del%20Projecte)
+- [`P02 – Carpeta de Documentació`](./P02%20–%20Carpeta%20de%20Documentació)
+- [`P03 – Presentació Final del Prototip (Figma)`](./P03%20–%20Presentació%20Final%20del%20Prototip%20(Figma))
+
+### Tareas Técnicas
+- [`T01 — DRP: Anàlisi de Cas del Client`](./T01%20—%20DRP:%20Anàlisi%20de%20Cas%20del%20Client)
+- [`T02 — DRP: Cas Pràctic i Definició d'Estratègia`](./T02%20—%20DRP:%20Cas%20Pràctic%20i%20Definició%20d'Estratègia)
+- [`T03 — Creació i Restauració d'imatges del Sistema (Rescuerilla)`](./T03%20—%20Creació%20i%20Restauració%20d'imatges%20del%20Sistema%20(Rescuerilla))
+- [`T04 — Introducció a l'Accés Remot`](./T04%20—%20Introducció%20a%20l'Accés%20Remot)
+- [`T05 — Connexió Segura amb SSH`](./T05%20—%20Connexió%20Segura%20amb%20SSH)
+- [`T06 — Excriptori Remot amb RDP`](./T06%20—%20Excriptori%20Remot%20amb%20RDP)
+- [`T07 — Excriptoris Remots i Assistència Remota`](./T07%20—%20Excriptoris%20Remots%20i%20Assistència%20Remota)
+- [`T08 — Auditoria de Servidors i Estàndards Corporatius`](./T08%20—%20Auditoria%20de%20Servidors%20i%20Estàndards%20Corporatius)
+- [`T09 — Servidor d'Arxius NFS`](./T09%20—%20Servidor%20d'Arxius%20NFS)
+- [`T10 — Servidor d'Impressió CUPS`](./T10%20—%20Servidor%20d'Impressió%20CUPS)
+
+### Diseño y Figma
+- [`T11 — Introducció a Figma`](./T11%20—%20Introducció%20a%20Figma)
+- [`T12 — Fonaments de Landing Page i Procés de Checkout`](./T12%20—%20Fonaments%20de%20Landing%20Page%20i%20Procés%20de%20Checkout)
+- [`T13 — E-commerce Maqueta amb Figma (parelles)`](./T13%20—%20E-commerce%20Maqueta%20amb%20Figma%20(parelles))
+
+### Sostenibilidad y Responsabilidad
+- [`T14 — Activitat escrita: Consum responsable i sostenibilitat`](./T14%20—%20Activitat%20escrita:%20Consum%20responsable%20i%20sostenibilitat)
+- [`T15 — Circularitat en la Família Professional`](./T15%20—%20Circularitat%20en%20la%20Família%20Professional)
+
+### Gestión de Proyecto
+- [`T11 — Revisió setmanal (equip)`](./T11%20—%20Revisió%20setmanal%20(equip))
+- [`T12 — Retrospectiva del projecte`](./T12%20—%20Retrospectiva%20del%20projecte)
+- [`T13 — Definition of Done (DoD)`](./T13%20—%20Definition%20of%20Done%20(DoD))
+- [`T14 — Traçabilitat i ordre al repositori`](./T14%20—%20Traçabilitat%20i%20ordre%20al%20repositori)
+
+---
+
+## 📝 Notas
+- Los enlaces funcionarán una vez creadas las carpetas en el repositorio
+- Las tareas con números duplicados (T11, T12, T13, T14) deberían revisarse para evitar confusiones
