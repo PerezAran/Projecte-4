@@ -68,5 +68,5 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 - [`TT1 — Revisió setmanal (equip)`](./TT1%20%E2%80%94%20Revisi%C3%B3%20setmanal%20(equip)))
 - [`TT2 — Retrospectiva del projecte`](./TT2%20—%20Retrospectiva%20del%20projecte)
 - [`TT3 — Definition of Done (DoD)`](./TT3%20—%20Definition%20of%20Done%20(DoD))
-- [`TT4 — Traçabilitat i ordre al repositori`](./T14%20—%20Traçabilitat%20i%20ordre%20al%20repositori)
+- [`TT4 — Traçabilitat i ordre al repositori`](.TT4%20—%20Traçabilitat%20i%20ordre%20al%20repositori)
 
