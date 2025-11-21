@@ -40,23 +40,34 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 - Implementació de serveis d’accés remot  
 - Desplegament de solucions de disseny i comerç electrònic  
 
-# TASQUES I PRODUCTES
+# Crear todas las carpetas principales
+mkdir "P01 – Kanban del Projecte"
+mkdir "P02 – Carpeta de Documentació"
+mkdir "P03 – Presentació Final del Prototip (Figma)"
 
-| Tasques                                                       | Productes                                                   |
-|---------------------------------------------------------------|-------------------------------------------------------------|
-| 📁 [T00](./tasques/T00)                                       | 📦 [P01](./productes/P01)                                   |
-| 📁 [T01](./tasques/T01)                                       | 📦 [P02](./productes/P02)                                   |
-| 📁 [T02](./tasques/T02)                                       | 📦 [P03](./productes/P03)                                   |
-| 📁 [T03](./tasques/T03)                                       |                                                             |
-| 📁 [T04](./tasques/T04)                                       |                                                             |
-| 📁 [T05](./tasques/T05)                                       |                                                             |
-| 📁 [T06](./tasques/T06)                                       |                                                             |
-| 📁 [T07](./tasques/T07)                                       |                                                             |
-| 📁 [T08](./tasques/T08)                                       |                                                             |
-| 📁 [T09](./tasques/T09)                                       |                                                             |
-| 📁 [T10](./tasques/T10)                                       |                                                             |
-| 📁 [T11](./tasques/T11)                                       |                                                             |
-| 📁 [T12](./tasques/T12)                                       |                                                             |
-| 📁 [T13](./tasques/T13)                                       |                                                             |
-| 📁 [T14](./tasques/T14)                                       |                                                             |
-| 📁 [T15](./tasques/T15)                                       |                                                             |
+# Crear carpetas de tareas técnicas
+mkdir "T01 — DRP: Anàlisi de Cas del Client"
+mkdir "T02 — DRP: Cas Pràctic i Definició d'Estratègia"
+mkdir "T03 — Creació i Restauració d'imatges del Sistema (Rescuerilla)"
+mkdir "T04 — Introducció a l'Accés Remot"
+mkdir "T05 — Connexió Segura amb SSH"
+mkdir "T06 — Excriptori Remot amb RDP"
+mkdir "T07 — Excriptoris Remots i Assistència Remota"
+mkdir "T08 — Auditoria de Servidors i Estàndards Corporatius"
+mkdir "T09 — Servidor d'Arxius NFS"
+mkdir "T10 — Servidor d'Impressió CUPS"
+
+# Crear carpetas de diseño
+mkdir "T11 — Introducció a Figma"
+mkdir "T12 — Fonaments de Landing Page i Procés de Checkout"
+mkdir "T13 — E-commerce Maqueta amb Figma (parelles)"
+
+# Crear carpetas de sostenibilidad
+mkdir "T14 — Activitat escrita: Consum responsable i sostenibilitat"
+mkdir "T15 — Circularitat en la Família Professional"
+
+# Crear carpetas de gestión (nota: hay duplicados en numeración)
+mkdir "T11 — Revisió setmanal (equip)"
+mkdir "T12 — Retrospectiva del projecte"
+mkdir "T13 — Definition of Done (DoD)"
+mkdir "T14 — Traçabilitat i ordre al repositori"
