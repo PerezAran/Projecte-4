@@ -13,7 +13,7 @@ Hem de instalar shh en la màquina de ubuntu amb un sudo apt install shh -y.
 ![foto](IMG/502.jpg) 
 
 Un cop fet això farem un ip a, i ens connectarem desde la màquina windows a la del servidor, per comprovar que ho hem fet bé.
-![foto](IMG/503.jpg) 
+![foto](IMG/504.jpg) 
 
 ## Configuració ssh:
 AIXÒ HO FEM PER TENIR UNA LLISTA D'USUARIS AUTORITZATS I DESACTIVAR L'ACCÉS A ROOT  
