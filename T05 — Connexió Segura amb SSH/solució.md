@@ -33,7 +33,7 @@ Aquí estem dient que només pugui entrar usuari perquè crearem un 2n usuari i 
 Ara hem de crear un usuari que es digui usuari2  i configurar que no es pugui connectar per ssh aquest usuari2.
 ![foto](IMG/507.jpg) 
 
-Com poder veure usuari2, no te permis
+Com poder veure usuari2, no te permis:
 ![foto](IMG/508.jpg) 
 
 ## Part del túnel:
