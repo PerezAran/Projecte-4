@@ -1,5 +1,7 @@
-T05: Accés Remot. Connexió via SSH (tasca individual)
-Breu descripció
+## T05: Accés Remot. Connexió via SSH (tasca individual)
+
+Breu descripció:
+
 Comencem una de les tasques més crítiques per a la nostra operativa diària a la consultora: la gestió remota segura. Com sabeu, els servidors dels nostres clients (i els nostres propis servidors interns) no són al nostre costat; estan en CPDs o al núvol. L'accés físic és l'excepció, no la norma.
 La nostra eina principal per a això és SSH (Secure Shell). És l'estàndard absolut de la indústria per administrar màquines (especialment Linux) de manera xifrada i eficient.
 La Vostra Missió: Crear la Base de Coneixement
@@ -10,7 +12,3 @@ Per fer-ho, utilitza màquines virtuals i documentareu el procés de connexió S
 ·         Des de Clients Windows (usant les eines modernes de terminal o PowerShell).
 Usa com a referència dels punts a documentar les activitats que s’indiquen al final del document Pràctica SSH.
 Aquesta guia ha de ser impecable. Penseu que el pròxim tècnic que s'incorpori dependrà directament de la vostra feina per poder ser operatiu des del primer dia. Comencem la PoC.
-Materials i links de suport
-●        Moodle 0227 Serveis de Xarxa. UD4.AA2 Pràctica SSH
-Vídeo. SSH amb clau pública/privada (link)
-****
