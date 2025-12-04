@@ -51,3 +51,28 @@ Instal·larem al Wireshark, a la màquina del Windows, i d'aquesta manera podrem
 ![foto](IMG/511.jpg) 
 ![foto](IMG/512.jpg) 
 
+## Iniciar sessió amb SSH Keys:
+Al que farem serà posar una clau d'accés en al ssh, així de aquesta manera nosaltres no haurem de posar cap clau per entrar en remot, pero equips que no estiguin dins SI.
+
+Ara escriurem totes aquestes comandes dins de la maquina del servidor.
+![foto](IMG/600.jpg) 
+
+Ara anirem a la maquina del servidor i escriurem aixo:
+![foto](IMG/601.jpg) 
+
+I tornarem a la del client per comprovar:
+![foto](IMG/602.jpg) 
+
+## Iniciar sessió amb SSH Keys:
+
+El primer pas es habilitar el servidor OpenSSH, que per defecte està activat.
+![foto](IMG/603.jpg) 
+
+Es necesari habilitar el servei per fer-ho, i indiquem que el servei s´engegui automàticament.
+![foto](IMG/604.jpg) 
+
+I desde un altre equip farem la prova:
+![foto](IMG/604.jpg) 
+
+Aquesta comanda es per si dona error al fer la prova:
+![foto](IMG/605.jpg) 
