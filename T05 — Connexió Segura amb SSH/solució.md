@@ -34,6 +34,7 @@ Ara hem de crear un usuari que es digui usuari2  i configurar que no es pugui co
 ![foto](IMG/507.jpg) 
 
 Com poder veure usuari2, no te permis:
+
 ![foto](IMG/508.jpg) 
 
 ## Part del túnel:
