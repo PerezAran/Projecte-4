@@ -1,4 +1,4 @@
- Projecte04: Servidor NFS
+Projecte04: Servidor NFS
 
 El Cas Client: DevOptimize Solutions
 
@@ -40,26 +40,30 @@ En tots dos casos, l'usuari propietari serà root.
 Com a pas final, s'instal·laran els paquets necessaris per al servei NFS al servidor i es configurarà l'exportació dels directoris amb les opcions adequades.
 
 Nota: Perquè aquesta pràctica funcioni correctament, heu de replicar aquests usuaris i grups al client, o, idealment, assegurar-vos que els UID i GID (els números d'identificació) coincideixin a les dues màquines.
+
 Fase 3: L'Exportació d'Administració (El Dilema del root_squash)
 
-El client necessita que el directori /srv/nfs/admin_tools sigui accessible per l'equip d'administradors. A vegades, l'usuari root del client (que sou vosaltres, els consultors) necessitarà escriure en aquest directori per instal·lar eines. Aquí mostrarem un error típic i la seva solució.
+El client necessita que el directori /srv/nfs/admin_tools sigui accessible per l'equip d'administradors. A vegades, l'usuari root del client (que sou vosaltres, els consultors) necessitarà escriure en aquest directori per instal·lar altres eines. Aquí mostrarem un error típic i la seva solució.
 
 Prova 1 (L'error comú)
 
 Exportar el directori /srv/nfs/admin_tools amb les opcions 'rw,sync'.
 Des del client, muntar aquest recurs compartit a /mnt/admin_tools. Com a root del client, intentar crear un fitxer dins d'aquest directori muntat.
 Verificar quin és el propietari del fitxer creat. Per què? Justificar la resposta amb l'explicació tècnica de 'root_squash'.
+
 Prova 2 (La Solució)
 
 Modificar l'exportació del directori /srv/nfs/admin_tools per incloure l'opció 'no_root_squash'.
 Al client, desmuntar i tornar a muntar el recurs compartit.
 Com a root del client, intentar crear un fitxer dins d'aquest directori muntat. Observeu quin és el propietari del fitxer creat aquesta vegada. Ha canviat alguna cosa? Justificar la resposta amb l'explicació tècnica de 'no_root_squash'.
+
 Fase 4: L'Exportació de Desenvolupament (Permisos rw vs ro)
 
 Editar /etc/exports per afegir dues exportacions per al mateix directori. El client vol que la xarxa d'administració (p.ex., 192.168.56.0/24) hi pugui escriure, però que la xarxa de consultors (simularem que és una altra IP, p.ex., 192.168.56.100) només pugui llegir.
 Des del client, muntar el recurs compartit a /mnt/dev_projects i provar d'escriure-hi com a usuari dev01. Hauria de funcionar.
 Desmuntar el recurs i canviar manualment la IP del client a 192.168.56.100. Tornar a provar d'escriure al directori muntat com a usuari dev01 i comprovar que només funciona la lectura.
 Canvieu d'usuari al client a admin01 i torneu a provar d'escriure al directori muntat. Comproveu que no es pot escriure, ja que admin01 no és membre del grup devs (permisos locals del sistema de fitxers).
+
 Fase 5: Muntatge Automàtic amb /etc/fstab
 
 És evident que els usuaris no poden estar muntant manualment els recursos compartits cada vegada que reinicien el sistema. Per això, es configurarà el muntatge automàtic mitjançant el fitxer /etc/fstab al client.
@@ -67,6 +71,7 @@ Fase 5: Muntatge Automàtic amb /etc/fstab
 Editar el fitxer /etc/fstab al client per afegir les entrades necessàries per muntar automàticament els recursos compartits NFS al directori /mnt/admin_tools i /mnt/dev_projects durant l'inici del sistema.
 Executar la comanda mount -a per provar les entrades sense reiniciar.
 Reiniciar el client i verificar que els recursos compartits s'han muntat correctament.
+
 Conclusió
 
 En aquesta prova de concepte s'ha demostrat el funcionament amb els requisits que ha demanat l'empresa client, però ja ets un tècnic prou experimentat per saber que aquesta solució té moltes limitacions i problemes de seguretat. Quines recomanacions faries al client per millorar aquesta solució en un futur? Pensa en termes d'autenticació centralitzada i gestió d'usuaris i permisos.
@@ -76,6 +81,7 @@ Com lliurar la tasca
 Documenta tot el procés seguint les fases descrites anteriorment. Per les comandes, escriu la comanda com un codi, això et permetrà copiar posteriorment amb facilitat. Per exemple:
 
 sudo apt update
+
 Inclou captures de pantalla dels passos més importants, especialment dels resultats que demostren el correcte funcionament.
 
 Respon les preguntes plantejades en les diferents fases.
