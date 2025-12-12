@@ -9,13 +9,14 @@
 **Per què?**  
 El segon disc simula un dispositiu local dedicat a còpies de seguretat.
 
+![foto](IMG/1.jpg) 
+
 ---
 
 ## 2. Instal·lació de Duplicati
 - Descarregar i instal·lar **Duplicati**.
 
-**Per què?**  
-És una eina gratuïta que permet fer còpies locals i al núvol amb programació horària.
+![foto](IMG/2.jpg) 
 
 ---
 
@@ -25,11 +26,9 @@ Crear **dos plans de còpia**:
 - **Cada hora** → cap al disc secundari.  
 - **A les 18:00** → cap a **Google Drive** (amb un compte específic).
 
-**Per què?**  
-Segueix l’esquema **3-2-1**:
-- 3 còpies  
-- 2 suports diferents  
-- 1 còpia fora de l’empresa
+![foto](IMG/3.jpg) 
+
+![foto](IMG/4.jpg) 
 
 ---
 
@@ -37,5 +36,6 @@ Segueix l’esquema **3-2-1**:
 - Afegir arxius a *Documents* i comprovar que es copien.
 - Esborrar *Documents* i **restaurar** des del disc secundari.
 - Restaurar també des de **Google Drive**.
+![foto](IMG/5.jpg) 
 
 ---
