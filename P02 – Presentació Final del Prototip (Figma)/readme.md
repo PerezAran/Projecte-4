@@ -84,3 +84,6 @@ Al final de la defensa, el professorat actuarà com a client fent preguntes de v
 * [ ] **Coordinació de la parella:** Tenir clar qui parla a cada pantalla i com es fan els relleus.
 * [ ] **Ritme de navegació:** No fer *scroll* ni canvis de pantalla massa ràpids; el client ha de poder seguir el fil.
 * [ ] **Llenguatge de valor:** No digueu *"aquí hem posat un botó blau"*, digueu *"hem destacat el botó de compra en blau per guiar l'usuari cap a la conversió"*.
+
+
+### 🎨 [P02: Presentació i Projecció de la Maqueta Web al Client (Enllaç Figma)](https://www.figma.com/design/H61VhInkINGuFTL6E8fiGX/IMPERIAL-TIME-RELLOTGES?node-id=0-1&t=cVrFvPKVpvJURsEc-1)
