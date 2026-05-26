@@ -62,11 +62,5 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 - [`T11 — Introducció a Figma`](./T11%20—%20Introducció%20a%20Figma)
 - [`T12 — Fonaments de Landing Page i Procés de Checkout`](./T12%20—%20Fonaments%20de%20Landing%20Page%20i%20Procés%20de%20Checkout)
 - [`T13 — E-commerce Maqueta amb Figma (parelles)`](./T13%20—%20E-commerce%3A%20Maqueta%20amb%20Figma%20(parelles))
-- [`T14 — Activitat escrita: Consum responsable i sostenibilitat`](./T14%20—%20Activitat%20escrita:%20Consum%20responsable%20i%20sostenibilitat)
-- [`T15 — Circularitat en la Família Professional`](./T15%20—%20Circularitat%20en%20la%20Família%20Professional)
-### TT
-- [`TT1 — Revisió setmanal (equip)`](./TT1%20%E2%80%94%20Revisi%C3%B3%20setmanal%20(equip)))
-- [`TT2 — Retrospectiva del projecte`](./TT2%20—%20Retrospectiva%20del%20projecte)
-- [`TT3 — Definition of Done (DoD)`](./TT3%20—%20Definition%20of%20Done%20(DoD))
-- [`TT4 — Traçabilitat i ordre al repositori`](.TT4%20—%20Traçabilitat%20i%20ordre%20al%20repositori)
+
 
