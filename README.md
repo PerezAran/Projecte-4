@@ -64,7 +64,7 @@ Aquest projecte no és un conjunt de tasques ni un llistat d'exercicis acadèmic
 | **T05** | Connexió Segura amb SSH | [Anar a la carpeta](./T05%20%E2%80%94%20Connexi%C3%B3%20Segura%20amb%20SSH) |
 | **T06** | Escriptori Remot amb RDP | [Anar a la carpeta](./T06%20%E2%80%94%20Escriptori%20Remot%20amb%20RDP) |
 | **T07** | Escriptoris Remots i Assistència Remota | [Anar a la carpeta](./T07%20%E2%80%94%20Escriptoris%20Remots%20i%20Assist%C3%A8ncia%20Remota) |
-| **T08** | Auditoria de Servidors i Estàndards Corporatius | [Anar a la carpeta](./T08%20%E2%80%94%20Auditoria%20de%20Servidors%20i%20Est%C3%A0ndards%20Cor...) |
+| **T08** | Auditoria de Servidors i Estàndards Corporatius | [Anar a la carpeta](./T08%20—%20Auditoria%20de%20Servidors%20i%20Estàndards%20Cor...) |
 | **T09** | Servidor d'Arxius NFS | [Anar a la carpeta](./T09%20%E2%80%94%20Servidor%20d%C2%B4Arxius%20NFS) |
 | **T10** | Servidor d'Impressió CUPS | [Anar a la carpeta](./T10%20%E2%80%94%20Servidor%20d%C2%B4Impressi%C3%B3%20CUPS) |
 | **T11** | Introducció a Figma | [Anar a la carpeta](./T11%20%E2%80%94%20Introducci%C3%B3%20a%20Figma) |
