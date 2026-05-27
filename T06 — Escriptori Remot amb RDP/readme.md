@@ -1,4 +1,4 @@
-🖥️ T06: Accés Remot — Escriptori Remot (RDP) Guia Oficial per a Becaris de Suport Remot - EverPia 📘 1. Introducció
+# 🖥️ T06: Accés Remot — Escriptori Remot (RDP) Guia Oficial per a Becaris de Suport Remot - EverPia 📘 1. Introducció
 
 En aquesta tasca aprendràs a establir connexions d’Escriptori Remot (RDP), el protocol més utilitzat per connectar-se a equips Windows i, actualment, també compatible amb escriptoris GNU/Linux com Gnome o Zorin OS.
 
@@ -10,7 +10,7 @@ A EverPia no només administrem servidors; també donem suport a usuaris finals 
 
 Aquesta és la guia que faràs servir per crear connexions ràpides, eficients i sense errors.
 
-🎯 2. Objectiu de la tasca
+## 🎯 2. Objectiu de la tasca
 
 Crear una Prova de Concepte (PoC) i documentació clara sobre com utilitzar RDP per establir connexions a:
 
@@ -22,21 +22,21 @@ GNU/Linux amb escriptori Gnome (ex: Zorin OS)
 
 La guia ha d'estar pensada per ser utilitzada per becaris sense experiència i per consultors que necessiten actuar amb rapidesa davant d’un client nerviós.
 
-🧰 3. Materials necessaris
+## 🧰 3. Materials necessaris
 
-💻 Màquina virtual Windows (servidor o client)
+### 💻 Màquina virtual Windows (servidor o client)
 
-🖥️ Màquina virtual GNU/Linux (Zorin, Ubuntu Gnome, etc.)
+### 🖥️ Màquina virtual GNU/Linux (Zorin, Ubuntu Gnome, etc.)
 
-🔌 Protocol RDP activat
+###🔌 Protocol RDP activat
 
-🌐 Accés a la xarxa local o NAT configurat
+### 🌐 Accés a la xarxa local o NAT configurat
 
-🔑 Credencials dels equips
+### 🔑 Credencials dels equips
 
-🔗 Recursos: Moodle 0227 Serveis de Xarxa — UD4.AA3 Escriptoris Remots
+### 🔗 Recursos: Moodle 0227 Serveis de Xarxa — UD4.AA3 Escriptoris Remots
 
-🔐 4. Activació de RDP a Windows 4.1. Activar Escriptori remot
+## 🔐 4. Activació de RDP a Windows 4.1. Activar Escriptori remot
 
 Obrir Configuració (Win + I)
 
@@ -62,7 +62,7 @@ A la pestanya Accés remot:
 
 Marca Permetre connexions només amb Escriptori remot amb Autenticació a nivell de xarxa
 
-🪟 5. Connexió a un Windows amb RDP (des d’un altre Windows) 5.1. Utilitzar el client RDP
+## 🪟 5. Connexió a un Windows amb RDP (des d’un altre Windows) 5.1. Utilitzar el client RDP
 
 Obre el menú Inici
 
