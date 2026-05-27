@@ -88,13 +88,13 @@ Si no connecta, prova: ping IP_del_client
 
 Si respon, però RDP no connecta, probablement és:
 
-❌ Firewall bloquejant port 3389
+### ❌ Firewall bloquejant port 3389
 
-❌ RDP desactivat
+### ❌ RDP desactivat
 
-❌ L’usuari no té permisos
+### ❌ L’usuari no té permisos
 
-🐧 6. Connexió RDP a GNU/Linux (Gnome / Zorin OS) 6.1. Activar RDP (Gnome Remote Desktop)
+## 🐧 6. Connexió RDP a GNU/Linux (Gnome / Zorin OS) 6.1. Activar RDP (Gnome Remote Desktop)
 
 Obrir Configuració
 
@@ -120,7 +120,7 @@ Igual que abans:
 
 mstsc → IP de Linux → Connecta → Contrasenya
 
-🌐 7. Connexió RDP des de Linux a Windows
+## 🌐 7. Connexió RDP des de Linux a Windows
 
 Et cal un client RDP, com per exemple:
 
@@ -146,11 +146,11 @@ Usuari i contrasenya
 
 Connectar
 
-🧪 8. PoC: Què ha d’incloure la teva documentació final
+## 🧪 8. PoC: Què ha d’incloure la teva documentació final
 
 ✔️ Captures de pantalla de cada pas ✔️ Com s’activa RDP a Windows ✔️ Com s’activa RDP a Linux (Gnome) ✔️ Com connectar des de Windows → Windows ✔️ Com connectar des de Windows → Linux ✔️ Com connectar des de Linux → Windows ✔️ Solució d’errors típics ✔️ Un estil clar, curt i orientat a “usuari nerviós”
 
-🚑 9. Troubleshooting (errors habituals) 🔸 No puc connectar per RDP
+## 🚑 9. Troubleshooting (errors habituals) 🔸 No puc connectar per RDP
 
 Revisa que el port 3389 no està bloquejat
 
@@ -170,7 +170,7 @@ Normal en connexions internes
 
 Pots prémer Sí per continuar
 
-🏁 10. Conclusió
+## 🏁 10. Conclusió
 
 Amb aquesta guia ja tens tots els passos necessaris per donar suport a clients i companys utilitzant Escriptori Remot (RDP) tant a Windows com a GNU/Linux.
 
