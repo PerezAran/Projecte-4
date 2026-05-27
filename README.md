@@ -59,7 +59,7 @@ Aquest projecte no és un conjunt de tasques ni un llistat d'exercicis acadèmic
 | :--- | :--- | :--- |
 | **T01** | DRP còpies de seguretat | [Anar a la carpeta](./T01%20DRP%20copies%20de%20seguretat) |
 | **T02** | DRP_ Cas Pràctic i Definició d'Estratègia | [Anar a la carpeta](./T02%20—%20DRP_%20Cas%20Pràctic%20i%20Definició%20d’Estratègia) |
-| **T03** | Creació i Restauració d'Imatges del Sistema | [Anar a la carpeta](./T03%20%E2%80%94%20Creaci%C3%B3%20i%20Restauraci%C3%B3%20d%C2%B4Imatges%20del%20Siste...) |
+| **T03** | Creació i Restauració d'Imatges del Sistema | [Anar a la carpeta](./T03%20—%20Creació%20i%20Restauració%20d´Imatges%20del%20Siste...) |
 | **T04** | Introducció a l'Accés Remot | [Anar a la carpeta](./T04%20%E2%80%94%20Introducci%C3%B3%20a%20l%C2%B4Acc%C3%A9s%20Remot) |
 | **T05** | Connexió Segura amb SSH | [Anar a la carpeta](./T05%20%E2%80%94%20Connexi%C3%B3%20Segura%20amb%20SSH) |
 | **T06** | Escriptori Remot amb RDP | [Anar a la carpeta](./T06%20%E2%80%94%20Escriptori%20Remot%20amb%20RDP) |
