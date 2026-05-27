@@ -66,7 +66,7 @@ Aquest projecte no és un conjunt de tasques ni un llistat d'exercicis acadèmic
 | **T07** | Escriptoris Remots i Assistència Remota | [Anar a la carpeta](./T07%20%E2%80%94%20Escriptoris%20Remots%20i%20Assist%C3%A8ncia%20Remota) |
 | **T08** | Auditoria de Servidors i Estàndards Corporatius | [Anar a la carpeta](./T08%20—%20Auditoria%20de%20Servidors%20i%20Estàndards%20Corporatius) |
 | **T09** | Servidor d'Arxius NFS | [Anar a la carpeta](./T09%20—%20Servidor%20d’Arxius%20NFS) |
-| **T10** | Servidor d'Impressió CUPS | [Anar a la carpeta](./T10%20%E2%80%94%20Servidor%20d%C2%B4Impressi%C3%B3%20CUPS) |
+| **T10** | Servidor d'Impressió CUPS | [Anar a la carpeta](./T10%20—%20Servidor%20d’Impressió%20CUPS) |
 | **T11** | Introducció a Figma | [Anar a la carpeta](./T11%20%E2%80%94%20Introducci%C3%B3%20a%20Figma) |
 | **T12** | Fonaments de Landing Page i Procés de Checkout | [Anar a la carpeta](./T12%20%E2%80%94%20Fonaments%20de%20Landing%20Page%20i%20Proc%C3%A9s%20de...) |
 | **T13** | E-commerce_ Maqueta amb Figma | [Anar a la carpeta](./T13%20%E2%80%94%20E-commerce_%20Maqueta%20amb%20Figma%20%28par...) |
