@@ -70,3 +70,6 @@ Aquest projecte no és un conjunt de tasques ni un llistat d'exercicis acadèmic
 | **T11** | Introducció a Figma | [Anar a la carpeta](./T11%20%E2%80%94%20Introducci%C3%B3%20a%20Figma) |
 | **T12** | Fonaments de Landing Page i Procés de Checkout | [Anar a la carpeta](./T12%20—%20Fonaments%20de%20Landing%20Page%20i%20Procés%20de%20Checkout) |
 | **T13** | E-commerce_ Maqueta amb Figma | [Anar a la carpeta](./T13%20—%20E-commerce_%20Maqueta%20amb%20Figma%20(parelles)) |
+
+[Anar a presetacio](https://github.com/PerezAran/presentacio)
+
